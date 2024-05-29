@@ -1,4 +1,17 @@
-## Hi there 👋
+### Hello, I'm Fandi Pranata Jaya! 👋
+[![Gmail](https://img.shields.io/badge/fandipranatajaya@gmail.com-30302f?style=flat&logo=gmail&logoColor=white)](mailto:fandipranatajaya@gmail.com)
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn_Profile-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/fandipj/)
+[![Medium](https://img.shields.io/badge/Medium_Page-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@fandipranatajaya)
+
+🖥️ I'm a Software Engineer
+🧑‍💼 Currently working at Tokopedia
+
+### Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fandipranatajaya28&show_icons=true&theme=omni)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fandipranatajaya28&show_icons=true&theme=omni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=go,postgres,redis,elasticsearch,graphql,docker)](https://skillicons.dev)
 
 <!--
 **fandipranatajaya28/fandipranatajaya28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
